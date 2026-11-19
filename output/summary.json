@@ -1,0 +1,212 @@
+{
+  "video": "/Users/akuladhatrimanohar/Documents/VDA ASSIN-1/input/traffic.mp4",
+  "frames_processed": 335,
+  "fps": 29.97,
+  "duration_s": 11.18,
+  "counts": {
+    "IN": 11,
+    "OUT": 3
+  },
+  "counts_per_line": {
+    "near": {
+      "IN": 11
+    },
+    "far": {
+      "OUT": 3
+    }
+  },
+  "total": 14,
+  "crossings": [
+    {
+      "index": 1,
+      "track_id": 2,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 58,
+      "time_s": 1.902,
+      "centroid": [
+        565.2,
+        320.9
+      ],
+      "speed_px_per_frame": 16.59
+    },
+    {
+      "index": 2,
+      "track_id": 1,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 60,
+      "time_s": 1.969,
+      "centroid": [
+        720.6,
+        330.3
+      ],
+      "speed_px_per_frame": 15.43
+    },
+    {
+      "index": 3,
+      "track_id": 3,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 97,
+      "time_s": 3.203,
+      "centroid": [
+        574.1,
+        332.0
+      ],
+      "speed_px_per_frame": 14.45
+    },
+    {
+      "index": 4,
+      "track_id": 4,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 129,
+      "time_s": 4.271,
+      "centroid": [
+        724.5,
+        319.9
+      ],
+      "speed_px_per_frame": 19.07
+    },
+    {
+      "index": 5,
+      "track_id": 5,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 132,
+      "time_s": 4.371,
+      "centroid": [
+        537.8,
+        327.2
+      ],
+      "speed_px_per_frame": 13.63
+    },
+    {
+      "index": 6,
+      "track_id": 7,
+      "direction": "OUT",
+      "line_part": "far",
+      "frame": 134,
+      "time_s": 4.438,
+      "centroid": [
+        814.2,
+        104.7
+      ],
+      "speed_px_per_frame": 7.08
+    },
+    {
+      "index": 7,
+      "track_id": 8,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 236,
+      "time_s": 7.841,
+      "centroid": [
+        556.8,
+        316.0
+      ],
+      "speed_px_per_frame": 14.24
+    },
+    {
+      "index": 8,
+      "track_id": 10,
+      "direction": "OUT",
+      "line_part": "far",
+      "frame": 241,
+      "time_s": 8.008,
+      "centroid": [
+        814.6,
+        107.7
+      ],
+      "speed_px_per_frame": 6.47
+    },
+    {
+      "index": 9,
+      "track_id": 11,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 244,
+      "time_s": 8.108,
+      "centroid": [
+        719.3,
+        326.8
+      ],
+      "speed_px_per_frame": 22.69
+    },
+    {
+      "index": 10,
+      "track_id": 9,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 253,
+      "time_s": 8.408,
+      "centroid": [
+        459.4,
+        316.4
+      ],
+      "speed_px_per_frame": 11.92
+    },
+    {
+      "index": 11,
+      "track_id": 12,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 280,
+      "time_s": 9.309,
+      "centroid": [
+        315.6,
+        336.0
+      ],
+      "speed_px_per_frame": 20.46
+    },
+    {
+      "index": 12,
+      "track_id": 13,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 303,
+      "time_s": 10.077,
+      "centroid": [
+        565.0,
+        324.8
+      ],
+      "speed_px_per_frame": 15.53
+    },
+    {
+      "index": 13,
+      "track_id": 14,
+      "direction": "IN",
+      "line_part": "near",
+      "frame": 313,
+      "time_s": 10.41,
+      "centroid": [
+        244.0,
+        316.9
+      ],
+      "speed_px_per_frame": 15.83
+    },
+    {
+      "index": 14,
+      "track_id": 15,
+      "direction": "OUT",
+      "line_part": "far",
+      "frame": 315,
+      "time_s": 10.477,
+      "centroid": [
+        816.0,
+        89.3
+      ],
+      "speed_px_per_frame": 7.39
+    }
+  ],
+  "suspicious_flags": 0,
+  "output_video": "/Users/akuladhatrimanohar/Documents/VDA ASSIN-1/output/traffic_counting.mp4",
+  "output_video_bytes": 1346863,
+  "output_video_resolution": [
+    960,
+    540
+  ],
+  "runtime_s": 6.4,
+  "contact_sheet": "/Users/akuladhatrimanohar/Documents/VDA ASSIN-1/evidence/contact_sheet.jpg"
+}
